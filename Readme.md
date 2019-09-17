@@ -1,6 +1,8 @@
 
 # ConvNetJS
 
+## addon for NeuroEvolution can be found at [hardmaru/convnetjs](https://github.com/hardmaru/convnetjs)
+
 ConvNetJS is a Javascript implementation of Neural networks, together with nice browser-based demos. It currently supports:
 
 - Common **Neural Network modules** (fully connected layers, non-linearities)
